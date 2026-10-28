@@ -1,8 +1,9 @@
 # 📚 Curso de JavaScript e TypeScript - Aulas & Exercícios
 
-Repositório dedicado ao armazenamento de anotações, exemplos de código, conceitos fundamentais e exercícios práticos desenvolvidos ao longo do curso de **JavaScript e TypeScript**.
+Repositório dedicado ao armazenamento de anotações, exemplos de código, conceitos fundamentais e exercícios práticos desenvolvidos ao longo do curso [**JavaScript e TypeScript do básico ao avançado**](https://www.udemy.com/course/curso-de-javascript-moderno-do-basico-ao-avancado/) na **Udemy**.
 
 <p align="center">
+  <img src="https://img.shields.io/badge/Udemy-A435F0?style=for-the-badge&logo=udemy&logoColor=white" alt="Udemy" />
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
   <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" />
   <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white" alt="Node.js" />
@@ -13,8 +14,9 @@ Repositório dedicado ao armazenamento de anotações, exemplos de código, conc
 
 ## 🎯 Sobre o Repositório
 
-O objetivo deste espaço é manter um histórico estruturado e de fácil consulta de todo o aprendizado prático e teórico das aulas:
+O objetivo deste espaço é manter um histórico estruturado e de fácil consulta de todo o aprendizado prático e teórico das aulas do curso:
 
+- 📖 **Curso:** [JavaScript e TypeScript do básico ao avançado (Udemy)](https://www.udemy.com/course/curso-de-javascript-moderno-do-basico-ao-avancado/)
 - Sintaxe essencial e estruturas de controle
 - Funções avançadas, closures, callbacks e escopo
 - Programação orientada a objetos (Prototypes, Classes, Factory/Constructor Functions)
