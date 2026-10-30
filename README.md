@@ -43,7 +43,7 @@ Abaixo estão os links para os repositórios dos projetos práticos e aplicaçõ
 
 ```text
 ├── aula03/              # Primeiros passos com console e strings
-├── aula04/ a aula72/    # Estruturas, funções, arrays, objetos, prototypes...
+├── aula04/ a aula77/    # Estruturas, funções, arrays, objetos, prototypes...
 ├── modelo/              # Template base para exercícios web / frontend
 ├── tests/               # Experimentos e testes pontuais
 ├── LICENSE              # Licença MIT
