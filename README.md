@@ -44,6 +44,11 @@ Abaixo estão os links para os repositórios dos projetos práticos e aplicaçõ
 ```text
 ├── aula03/              # Primeiros passos com console e strings
 ├── aula04/ a aula77/    # Estruturas, funções, arrays, objetos, prototypes...
+├── aula78/              # Polimorfismo e herança com prototypes
+├── aula79/              # Factory Functions + Prototypes (Composição / Mixins)
+├── aula80/              # Introdução a Classes no ES6
+├── aula81/              # Getters e Setters em Classes e uso de Symbol
+├── aulaMap/             # Estrutura de dados Map (chave/valor)
 ├── modelo/              # Template base para exercícios web / frontend
 ├── tests/               # Experimentos e testes pontuais
 ├── LICENSE              # Licença MIT
