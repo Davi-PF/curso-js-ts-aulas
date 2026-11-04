@@ -58,9 +58,10 @@ Abaixo estão os links para os repositórios dos projetos práticos e aplicaçõ
 ├── aula89/              # Requisições AJAX com XMLHttpRequest e Promises
 ├── aula90/              # Fetch API e Async/Await
 ├── aula91/              # Fetch API e Axios com JSON
+├── aula92/              # Transpilação com Babel e compatibilidade ES6+
+├── AULA93-WEBPACK/      # Configuração do Webpack, Babel Loader, Core-js e bundling
 ├── aulaMap/             # Estrutura de dados Map (chave/valor)
 ├── modelo/              # Template base para exercícios web / frontend
-├── tests/               # Experimentos e testes pontuais
 ├── LICENSE              # Licença MIT
 └── README.md            # Documentação deste repositório
 ```
