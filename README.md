@@ -48,6 +48,16 @@ Abaixo estão os links para os repositórios dos projetos práticos e aplicaçõ
 ├── aula79/              # Factory Functions + Prototypes (Composição / Mixins)
 ├── aula80/              # Introdução a Classes no ES6
 ├── aula81/              # Getters e Setters em Classes e uso de Symbol
+├── aula82/              # Herança com Classes (extends e super)
+├── aula83/              # Métodos de instância e métodos estáticos em Classes
+├── aula84/              # Validação de CPF com Classes
+├── aula85/              # Projeto Prático: Validador de Formulário com Classes
+├── aula86/              # Introdução a Promises
+├── aula87/              # Métodos úteis para Promises (all, race, resolve, reject)
+├── aula88/              # Async / Await com Promises
+├── aula89/              # Requisições AJAX com XMLHttpRequest e Promises
+├── aula90/              # Fetch API e Async/Await
+├── aula91/              # Fetch API e Axios com JSON
 ├── aulaMap/             # Estrutura de dados Map (chave/valor)
 ├── modelo/              # Template base para exercícios web / frontend
 ├── tests/               # Experimentos e testes pontuais
