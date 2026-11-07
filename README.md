@@ -51,7 +51,7 @@ Abaixo estão os links para os repositórios dos projetos práticos e aplicaçõ
 ├── aula82/              # Herança com Classes (extends e super)
 ├── aula83/              # Métodos de instância e métodos estáticos em Classes
 ├── aula84/              # Validação de CPF com Classes
-├── aula85/              # Projeto Prático: Validador de Formulário com Classes
+├── aula85-validacpf/    # Projeto Prático: Validador de Formulário com Classes
 ├── aula86/              # Introdução a Promises
 ├── aula87/              # Métodos úteis para Promises (all, race, resolve, reject)
 ├── aula88/              # Async / Await com Promises
@@ -60,8 +60,14 @@ Abaixo estão os links para os repositórios dos projetos práticos e aplicaçõ
 ├── aula91/              # Fetch API e Axios com JSON
 ├── aula92/              # Transpilação com Babel e compatibilidade ES6+
 ├── AULA93-WEBPACK/      # Configuração do Webpack, Babel Loader, Core-js e bundling
+├── aula94/              # ES6 Modules (Import / Export)
+├── aula95/              # Projeto Prático: Gerador de CPF válido com Webpack
+├── aula96/              # Projeto Prático: Gerador de Senhas com Webpack
+├── aula97/              # Core-js e regenerator-runtime para navegadores antigos
+├── node/                # Node.js: Módulos CommonJS, NPM e File System (aulas 1 a 4)
 ├── aulaMap/             # Estrutura de dados Map (chave/valor)
 ├── modelo/              # Template base para exercícios web / frontend
+├── modelo-webpack/      # Template base configurado com Webpack e Babel
 ├── LICENSE              # Licença MIT
 └── README.md            # Documentação deste repositório
 ```
