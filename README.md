@@ -28,6 +28,42 @@ O objetivo deste espaço é manter um histórico estruturado e de fácil consult
 
 ---
 
+## 📈 Progresso e Evolução no Curso
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Aulas_Conclu%C3%ADdas-99-success?style=for-the-badge&logo=checkmarx&logoColor=white" alt="Aulas Concluídas" />
+  <img src="https://img.shields.io/github/commit-activity/m/Davi-PF/curso-js-ts-aulas?style=for-the-badge&label=Frequ%C3%AAncia_de_Commits&color=blue" alt="Commit Activity" />
+  <img src="https://img.shields.io/github/last-commit/Davi-PF/curso-js-ts-aulas?style=for-the-badge&label=%C3%9Altimo_Commit&color=orange" alt="Last Commit" />
+</p>
+
+### 📊 Progresso por Módulo
+
+| Módulo / Seção | Aulas no Repositório | Status | Progresso |
+| :--- | :---: | :---: | :---: |
+| **1. JavaScript Básico** | `aula03` a `aula20` | ✅ Concluído | ![100%](https://geps.dev/progress/100) |
+| **2. Lógica de Programação** | `aula21` a `aula48` | ✅ Concluído | ![100%](https://geps.dev/progress/100) |
+| **3. Funções (Avançado)** | `aula49` a `aula61` | ✅ Concluído | ![100%](https://geps.dev/progress/100) |
+| **4. Arrays (Avançado)** | `aula62` a `aula69` | ✅ Concluído | ![100%](https://geps.dev/progress/100) |
+| **5. Objetos e Prototypes (Avançado)** | `aula70` a `aula79` + `aulaMap` | ✅ Concluído | ![100%](https://geps.dev/progress/100) |
+| **6. POO - Classes (ES6)** | `aula80` a `aula85-validacpf` | ✅ Concluído | ![100%](https://geps.dev/progress/100) |
+| **7. JS Assíncrono (Promises, Fetch, Ajax)** | `aula86` a `aula91` | ✅ Concluído | ![100%](https://geps.dev/progress/100) |
+| **8. JS Tooling e ES6 Modules (Babel/Webpack)** | `aula92` a `aula97` | ✅ Concluído | ![100%](https://geps.dev/progress/100) |
+| **9. Node.js, NPM, Express e MongoDB** | `node/aula1` a `node/aula4` | 🔄 Em andamento | ![25%](https://geps.dev/progress/25) |
+| **10. TypeScript, React, API REST e Testes** | *Próximos módulos* | ⏳ Planejado | ![0%](https://geps.dev/progress/0) |
+
+### 🚀 Evolução Acumulada de Aulas por Commit
+
+```mermaid
+xychart-beta
+    title "Evolucao de Aulas Concluidas por Commit"
+    x-axis ["28/Out (78e9f43)", "30/Out (0e6ad96)", "02/Nov (233f629)", "04/Nov (254f622)", "04/Nov (9b034ea)", "07/Nov (Atual)"]
+    y-axis "Total de Aulas no Repositorio" 0 --> 110
+    bar [69, 74, 79, 89, 91, 99]
+    line [69, 74, 79, 89, 91, 99]
+```
+
+---
+
 ## 🚀 Projetos Desenvolvidos
 
 Abaixo estão os links para os repositórios dos projetos práticos e aplicações completas geradas a partir do aprendizado deste curso:
