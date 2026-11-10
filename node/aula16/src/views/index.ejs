@@ -1,0 +1,26 @@
+<%- include('includes/head') %>
+    <section class="container">
+      <h1><%= umaVariavelLocal %></h1>
+      <!-- <h1>  -->
+        <%# numeros.forEach(num => { %>
+          <!-- <%#= num %><br> -->
+        <%# }); %>
+
+        <!-- <%#if(typeof titulo !== 'undefined') {  %>
+          <%#= titulo %>
+          <%# } else { %>
+            O título não foi enviado.
+        <%# } %> -->
+        <!-- <%#= titulo %><br /> -->
+        <!-- |-> Escapa template -> Vai mostrar tudo que estiver dentro da chave utilizada (nesse caso titulo) -->
+        <!-- <%#- titulo %> -->
+        <!-- |-> Irá executar o que tiver dentro de titulo, caso seja o caso (nesse ex. ele adiciona uma tag span vermelha na palavra titulo)-->
+      <!-- </h1> -->
+
+      <form action="/" method="post">
+        <label>Cliente</label>
+        <input type="text" name="cliente" />
+        <button>Submit</button>
+      </form>
+    </section>
+<%- include('includes/footer') %>
