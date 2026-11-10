@@ -31,7 +31,7 @@ O objetivo deste espaço é manter um histórico estruturado e de fácil consult
 ## 📈 Progresso e Evolução no Curso
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Aulas_Conclu%C3%ADdas-109-success?style=for-the-badge&logo=checkmarx&logoColor=white" alt="Aulas Concluídas" />
+  <img src="https://img.shields.io/badge/Aulas_Conclu%C3%ADdas-112-success?style=for-the-badge&logo=checkmarx&logoColor=white" alt="Aulas Concluídas" />
   <img src="https://img.shields.io/github/commit-activity/m/Davi-PF/curso-js-ts-aulas?style=for-the-badge&label=Frequ%C3%AAncia_de_Commits&color=blue" alt="Commit Activity" />
   <img src="https://img.shields.io/github/last-commit/Davi-PF/curso-js-ts-aulas?style=for-the-badge&label=%C3%9Altimo_Commit&color=orange" alt="Last Commit" />
 </p>
@@ -48,7 +48,7 @@ O objetivo deste espaço é manter um histórico estruturado e de fácil consult
 | **6. POO - Classes (ES6)** | `aula80` a `aula85-validacpf` | ✅ Concluído | ![100%](https://geps.dev/progress/100) |
 | **7. JS Assíncrono (Promises, Fetch, Ajax)** | `aula86` a `aula91` | ✅ Concluído | ![100%](https://geps.dev/progress/100) |
 | **8. JS Tooling e ES6 Modules (Babel/Webpack)** | `aula92` a `aula97` | ✅ Concluído | ![100%](https://geps.dev/progress/100) |
-| **9. Node.js, NPM, Express e MongoDB** | `node/aula1` a `node/aula14` | 🔄 Em andamento | ![70%](https://geps.dev/progress/70) |
+| **9. Node.js, NPM, Express e MongoDB** | `node/aula1` a `node/aula17` | 🔄 Em andamento | ![85%](https://geps.dev/progress/85) |
 | **10. TypeScript, React, API REST e Testes** | *Próximos módulos* | ⏳ Planejado | ![0%](https://geps.dev/progress/0) |
 
 ### 🚀 Evolução Acumulada de Aulas por Commit
@@ -58,8 +58,8 @@ xychart-beta
     title "Evolucao de Aulas Concluidas por Commit"
     x-axis ["28/Out (78e9f43)", "30/Out (0e6ad96)", "02/Nov (233f629)", "04/Nov (254f622)", "04/Nov (9b034ea)", "07/Nov (8236a82)", "10/Nov (Atual)"]
     y-axis "Total de Aulas no Repositorio" 0 --> 120
-    bar [69, 74, 79, 89, 91, 99, 109]
-    line [69, 74, 79, 89, 91, 109]
+    bar [69, 74, 79, 89, 91, 99, 112]
+    line [69, 74, 79, 89, 91, 112]
 ```
 
 ---
@@ -100,7 +100,7 @@ Abaixo estão os links para os repositórios dos projetos práticos e aplicaçõ
 ├── aula95/              # Projeto Prático: Gerador de CPF válido com Webpack
 ├── aula96/              # Projeto Prático: Gerador de Senhas com Webpack
 ├── aula97/              # Core-js e regenerator-runtime para navegadores antigos
-├── node/                # Node.js: Módulos CommonJS, NPM, Express, MVC, Middlewares e MongoDB (aulas 1 a 14)
+├── node/                # Node.js: Módulos CommonJS, NPM, Express, MVC, Sessions, Helmet, CSRF e MongoDB (aulas 1 a 17)
 ├── aulaMap/             # Estrutura de dados Map (chave/valor)
 ├── modelo/              # Template base para exercícios web / frontend
 ├── modelo-webpack/      # Template base configurado com Webpack e Babel
