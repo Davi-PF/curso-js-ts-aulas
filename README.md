@@ -70,7 +70,7 @@ Abaixo estão os links para os repositórios dos projetos práticos e aplicaçõ
 
 | Projeto | Descrição | Repositório |
 | :--- | :--- | :---: |
-| **Projeto Agenda** | Aplicação completa com autenticação, MVC e banco de dados | [🔗 Acessar](https://github.com/Davi-PF/projeto-agenda-curso-js-ts) *(em breve)* |
+| **Projeto Agenda** | Aplicação completa com autenticação, MVC e banco de dados | [🔗 Acessar](https://github.com/Davi-PF/projeto-agenda_curso-js-ts) |
 | *Novos projetos serão adicionados conforme o avanço do curso* | — | — |
 
 ---
