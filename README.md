@@ -48,8 +48,9 @@ O objetivo deste espaço é manter um histórico estruturado e de fácil consult
 | **6. POO - Classes (ES6)** | `aula80` a `aula85-validacpf` | ✅ Concluído | ![100%](https://geps.dev/progress/100) |
 | **7. JS Assíncrono (Promises, Fetch, Ajax)** | `aula86` a `aula91` | ✅ Concluído | ![100%](https://geps.dev/progress/100) |
 | **8. JS Tooling e ES6 Modules (Babel/Webpack)** | `aula92` a `aula97` | ✅ Concluído | ![100%](https://geps.dev/progress/100) |
-| **9. Node.js, NPM, Express e MongoDB** | `node/aula1` a `node/aula17` | 🔄 Em andamento | ![85%](https://geps.dev/progress/85) |
-| **10. TypeScript, React, API REST e Testes** | *Próximos módulos* | ⏳ Planejado | ![0%](https://geps.dev/progress/0) |
+| **9. Node.js, NPM, Express e MongoDB** | `node/aula1` a `node/aula17` | ✅ Concluído | ![100%](https://geps.dev/progress/100) |
+| **10. API REST (Express, Sucrase, Sequelize)** | `api_rest/` | 🔄 Em andamento | ![10%](https://geps.dev/progress/10) |
+| **11. TypeScript, React e Testes** | *Próximos módulos* | ⏳ Planejado | ![0%](https://geps.dev/progress/0) |
 
 ### 🚀 Evolução Acumulada de Aulas por Commit
 
@@ -101,6 +102,7 @@ Abaixo estão os links para os repositórios dos projetos práticos e aplicaçõ
 ├── aula96/              # Projeto Prático: Gerador de Senhas com Webpack
 ├── aula97/              # Core-js e regenerator-runtime para navegadores antigos
 ├── node/                # Node.js: Módulos CommonJS, NPM, Express, MVC, Sessions, Helmet, CSRF e MongoDB (aulas 1 a 17)
+├── api_rest/            # Projeto prático de API REST (setup com EditorConfig, ESLint, Nodemon e Sucrase)
 ├── aulaMap/             # Estrutura de dados Map (chave/valor)
 ├── modelo/              # Template base para exercícios web / frontend
 ├── modelo-webpack/      # Template base configurado com Webpack e Babel
